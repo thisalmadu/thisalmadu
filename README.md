@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisalmadu
-- 👀 I’m interested in Python and Numerical mathematics
+- 👀 I’m interested in Python and Numerical mathematics and Machine Learning
 - 🌱 I’m currently learning Python
 
 <!---
